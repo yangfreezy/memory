@@ -1,2 +1,2 @@
 # memory
-A memory card game I built when I was learning to use HTML, CSS, and JS.
+A memory card game I built using Vanilla JS, HTML5, and CSS5.
